@@ -1,0 +1,214 @@
+.qa_qarma_dashboard {
+  position: relative;
+  max-width: 1920px;
+  margin: auto auto;
+  height: 100%;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.qa_qarma_header_ads {
+  position: absolute;
+  top: 70px;
+  left: 20.25px;
+  border: 1px solid #808080;
+  width: 97%;
+  height: 139.28px;
+  display: flex;
+}
+
+.qa_qarma_speaker_ads_logo {
+  /* position: absolute; */
+  /* border: 1px solid green; */
+  margin-top: 15.4px;
+  margin-left: 17.4px;
+  width: 151.57px;
+  height: 121.63px;
+}
+
+.qa_qarma_speaker_ads_descriptions {
+  width: 847.76px;
+  margin-top: 33.37px;
+  margin-left: 30.38px;
+}
+
+.qa_qarma_speaker_ads_header {
+  font-size: 18px;
+  line-height: 20px;
+  color: #222222;
+  /* border: 1px solid purple; */
+}
+
+.qa_qarma_speaker_ads_navigatior {
+  margin-top: 87.15px;
+  margin-left: 92.25px;
+  /* border: 1px solid green; */
+  font-size: 14px;
+  line-height: 20px;
+  color: #3399ff;
+}
+
+.arrow_logo {
+  margin-left: 6px;
+}
+
+.qa_qarma_speaker_ads_desc {
+  margin-top: 8.85px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #222222;
+}
+
+.qa_qarma_dashboard_header {
+  position: absolute;
+  top: 245.75px;
+  width: 97%;
+  left: 20.76px;
+  display: flex;
+  column-gap: 8.68px;
+  /* border: 1px solid green; */
+}
+
+.qa_qarma_dashboard_fieldset {
+  display: flex;
+  flex-direction: column;
+  width: 840px;
+  height: 407px;
+  /* margin: auto auto; */
+  border: 1px solid #808080;
+}
+
+.qa_qarma_videos_fieldset {
+  width: 477px;
+  height: 373px;
+  margin-top: 2.61%;
+  border: 1px solid #808080;
+}
+
+.qa_qarma_videos_legend {
+  display: flex;
+  margin-left: 14px;
+  padding: 0px 7px 0px 7px;
+  font-size: 18px;
+  line-height: 20px;
+  color: #222222;
+  column-gap: 36px;
+}
+
+.qa_qarma_videos_card {
+  display: flex;
+  width: 90%;
+  flex-wrap: wrap;
+  column-gap: 10px;
+  margin-left: 28px;
+  margin-top: 18px;
+}
+
+.qa_qarma_project_assign_desc {
+  position: absolute;
+  top: 247px;
+  font-size: 14px;
+  line-height: 20px;
+  color: #222222;
+  display: flex;
+  column-gap: 20px;
+}
+
+.fieldset_view_all {
+  font-size: 14px;
+  line-height: 20px;
+  color: #3399ff;
+}
+
+.qa_qarma_dashboard_banner {
+  position: absolute;
+  /* border: 1px solid green; */
+  top: 131.5px;
+  /* right: 25.81px; */
+  left: 39%;
+}
+
+.qa_qarma_dashboard_legend {
+  display: flex;
+  column-gap: 16px;
+  /* position: absolute; */
+  margin-left: 40.15px;
+  padding: 0px 16px 0px 1px;
+}
+
+.qa_qarma_dashboard_person_logo {
+  /* position: absolute; */
+  width: 89px;
+  height: 89px;
+  border: 1px solid #3399ff;
+  border-radius: 50px;
+}
+
+.person_logo {
+  /* border: 1px solid red; */
+  margin-left: 5.3px;
+  margin-top: 4px;
+}
+
+.qa_qarma_dashboard_personLogo_details {
+  margin-top: 6.3%;
+  font-size: 18px;
+  line-height: 20px;
+  color: #222222;
+}
+
+.qa_qarma_dashboard_buttons {
+  /* border: 1px solid blue; */
+  width: 500px;
+  position: absolute;
+  top: 129px;
+  left: 31.45px;
+  height: 200px;
+}
+
+.qa_qarma_dashboard_buttons button {
+  background: white;
+  margin-right: 50px;
+  margin-bottom: 50.75px;
+  width: 110px;
+  border: none;
+}
+
+.profile_img {
+  margin-bottom: 11px;
+}
+
+.qa_qarma_dashboard_blogs {
+  position: absolute;
+  top: 692.27px;
+  left: 21.47px;
+  width: 97%;
+  bottom: 200px;
+  /* border: 1px solid green; */
+}
+
+.qa_qarma_dashboard_blogs_containers {
+  /* border: 1px solid red; */
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 5px;
+  height: 300px;
+  width: 100%;
+  margin-top: 20px;
+}
+
+.qa_qarma_dashboard_blogs_container {
+  flex-wrap: wrap;
+  display: flex;
+  margin-top: 20px;
+  width: 257px;
+  height: 200px;
+  border: 1px solid #808080;
+}
+
+@media (max-width: 1366px) {
+  .qa_qarma_dashboard {
+    max-width: 1366px;
+  }
+}

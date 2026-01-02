@@ -1,0 +1,9 @@
+.MuiMenu-root {
+    position: absolute;
+    border: 1px solid green;
+}
+
+.MuiButtonBase-root .MuiIconButton-root {
+  position: absolute;
+  top: 10px;
+}

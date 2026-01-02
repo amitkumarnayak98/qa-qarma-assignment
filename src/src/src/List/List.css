@@ -1,0 +1,62 @@
+.qa_qarma_list {
+  max-width: 1920px;
+  margin: auto auto;
+  height: 100%;
+  border: 1px solid red;
+  position: relative;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.qa_qarma_list_header {
+  /* border: 1px solid green; */
+  position: absolute;
+  top: 79.47px;
+  left: 26.47px;
+
+  font-size: 20px;
+  line-height: 20px;
+  display: flex;
+  /* identical to box height, or 100% */
+
+  /* black */
+
+  color: #222222;
+  width: 95%;
+  justify-content: space-between;
+}
+
+.qa_qarma_list_card {
+  position: absolute;
+  top: 130px;
+  left: 28px;
+
+  display: flex;
+  /* border: 1px solid green; */
+  column-gap: 30.92px;
+}
+
+.qa_qarma_list_button {
+  display: flex;
+  gap: 5.5px;
+  align-items: center;
+  border: none;
+  background: #ffffff;
+}
+
+.qa_qarma_list_button_desc {
+  font-size: 12px;
+  line-height: 20px;
+  /* identical to box height, or 167% */
+
+  /* black */
+
+  color: #222222;
+}
+
+@media (max-width: 1366px) {
+  .qa_qarma_list {
+    max-width: 1366px;
+  }
+}

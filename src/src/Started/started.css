@@ -1,0 +1,39 @@
+.started {
+  padding: 1rem 2rem;
+  /* border: 1px solid red; */
+  margin-top: 65px;
+}
+
+.started__tabs {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-top: 30px;
+}
+
+.started__tabs-item {
+  outline: none;
+  background: none;
+  border: none;
+  cursor: pointer;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 27px;
+}
+
+.started__tabs-item.active {
+  color: #3661e2;
+  border: solid;
+  border-image-source: linear-gradient(to right, #3661e2ff, #3661e200);
+  border-image-slice: 4;
+  border-width: 0px 0px 4px 0px;
+}
+
+.started__content {
+  margin-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 30px;
+}

@@ -1,0 +1,26 @@
+.searchbar {
+    width: 100%;
+    /* padding: 1rem 2rem; */
+  }
+  
+  .searchbar__form {
+    height: 40px;
+    border-radius: 36px;
+    border: 1px solid #3661e2;
+    display: flex;
+    padding: 0 1rem;
+  }
+  
+  .searchbar__form-input {
+    outline: none;
+    border: none;
+    flex: 1;
+  }
+  
+  .searchbar__btn {
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background: none;
+  }
+  

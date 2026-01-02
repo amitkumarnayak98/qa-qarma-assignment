@@ -1,0 +1,208 @@
+.qa_qarma_singup {
+  max-width: 1920px;
+  margin: auto auto;
+  width: 100%;
+  height: 100%;
+  position: relative;
+  font-family: "Source Sans Pro";
+  font-style: normal;
+  font-weight: 400;
+}
+
+.qa_qarma_singup_contents {
+  width: 100%;
+  height: 100%;
+}
+
+.qa_qarma_signup_banner {
+  /* border: 1px solid red; */
+  position: absolute;
+  top: 292px;
+  left: 44px;
+  width: 96.6%;
+  height: 466.33px;
+}
+
+.signup_banner {
+  width: 100%;
+}
+
+.qa_qarma_signup_logo {
+  position: absolute;
+  top: 154px;
+  left: 40px;
+}
+
+.qa_qarma_signup_desc {
+  position: absolute;
+  top: 224px;
+  left: 40px;
+  /* border: 1px solid red; */
+  font-size: 24px;
+  line-height: 46px;
+  color: #222222;
+  width: 463px;
+}
+
+.qa-qarma_signup_containers {
+  position: absolute;
+  height: 568px;
+  width: 400px;
+  border: 1px solid #3399ff;
+  top: 97px;
+  left: 65%;
+  box-shadow: 4px 4px 16px rgba(0, 136, 240, 0.2);
+}
+
+.qa_qarma_signup_heading {
+  font-size: 24px;
+  line-height: 20px;
+  position: absolute;
+  color: #222222;
+  font-weight: 600;
+  top: 50px;
+  left: 50px;
+}
+
+.qa_qarma_signup_descs {
+  font-size: 14px;
+  line-height: 20px;
+  position: absolute;
+  color: #222222;
+  left: 50px;
+  top: 80px;
+}
+
+.qa_qarma_signup_input_email {
+  /* border: 1px solid red; */
+  position: absolute;
+  top: 140.91px;
+  left: 49.25px;
+}
+
+.email_input_field {
+  height: 30px;
+  width: 300px;
+  border: 1px solid #e6e6e6;
+  padding: 0px 0px 0px 50px;
+}
+
+input ::placeholder {
+  color: #e6e6e6;
+}
+
+.email_logo {
+  position: absolute;
+  top: 7.49px;
+  left: 13.75px;
+}
+
+.qa_qarma_signup_input_password {
+  position: absolute;
+  top: 190.91px;
+  left: 49.25px;
+}
+
+.qa_qarma_signup_input_cpassword {
+  position: absolute;
+  top: 240.91px;
+  left: 49.25px;
+}
+
+.qa_qarma_signup_buttons {
+  position: absolute;
+  top: 311px;
+  left: 49px;
+  width: 300px;
+  height: 30px;
+  border: none;
+  background: #3399ff;
+}
+
+.signup_button {
+  color: #ffffff;
+}
+
+.qa_qarma_signup_others {
+  position: absolute;
+  top: 361px;
+  left: 148px;
+  width: 50%;
+  /* border: 1px solid red; */
+  display: flex;
+}
+
+.qa_qarma_signup_horizontal_line_one {
+  /* position: absolute; */
+  height: 1px;
+  background: #808080;
+  width: 34px;
+  margin-top: 5.9%;
+}
+
+.qa_qarma_signup_others_descs {
+  font-size: 14px;
+  line-height: 22px;
+  color: #666666;
+  padding: 0px 10px 0px 10px;
+}
+
+.qa_qarma_signup_info {
+  position: absolute;
+  top: 397px;
+  left: 117px;
+  /* border: 1px solid red; */
+  font-size: 14px;
+  line-height: 20px;
+  color: #666666;
+}
+
+.qa_qarma_signup_icons {
+  /* border: 1px solid red; */
+  width: 230px;
+  position: absolute;
+  top: 429px;
+  left: 90px;
+}
+
+.qa_qarma_signup_icons button {
+  background: #ffffff;
+  border: none;
+}
+
+.qa_qarma_icon_github {
+  position: absolute;
+  left: 90px;
+}
+
+.qa_qarma_icon_others {
+  position: absolute;
+  left: 185px;
+}
+
+.qa_qarma_signup_remember {
+  display: flex;
+  column-gap: 5px;
+  position: absolute;
+  top: 533px;
+  left: 124px;
+  font-size: 14px;
+  line-height: 20px;
+  /* identical to box height, or 143% */
+
+  color: #666666;
+}
+
+.qa_qarma_signup_remember_nav {
+  font-size: 14px;
+  line-height: 20px;
+  color: #0088f0;
+  background: #ffffff;
+  border: none;
+}
+
+@media (max-width: 1366px) {
+  .qa_qarma_singup {
+    max-width: 1366px;
+  }
+}
