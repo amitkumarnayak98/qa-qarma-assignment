@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/qa-qarma-assignment/static/css/main.8258c6ad.css",
+    "main.js": "/qa-qarma-assignment/static/js/main.d4c06ce6.js",
+    "static/js/787.9bf28030.chunk.js": "/qa-qarma-assignment/static/js/787.9bf28030.chunk.js",
+    "static/media/infographic.png": "/qa-qarma-assignment/static/media/infographic.057c949baf130e73cd63.png",
+    "static/media/Group 522.png": "/qa-qarma-assignment/static/media/Group 522.18ca95f1d5168ec6014d.png",
+    "index.html": "/qa-qarma-assignment/index.html",
+    "main.8258c6ad.css.map": "/qa-qarma-assignment/static/css/main.8258c6ad.css.map",
+    "main.d4c06ce6.js.map": "/qa-qarma-assignment/static/js/main.d4c06ce6.js.map",
+    "787.9bf28030.chunk.js.map": "/qa-qarma-assignment/static/js/787.9bf28030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8258c6ad.css",
+    "static/js/main.d4c06ce6.js"
+  ]
+}
